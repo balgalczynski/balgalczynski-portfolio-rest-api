@@ -17,7 +17,7 @@ License: CC BY‑NC 4.0 [(creativecommons.org in Bing)](https://www.bing.com/sea
 - `/css`, `/js` - Swagger UI assets.  
 
 ## User-Friendly View
-You can view a Swagger Documentation in user-friendly [here](https://balgalczynski.github.io/balgalczynski-portfolio-rest-api/).
+You can view a Swagger Documentation in a user-friendly form [here](https://balgalczynski.github.io/balgalczynski-portfolio-rest-api/).
 
 ## License
 
